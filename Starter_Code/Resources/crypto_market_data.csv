@@ -1,4 +1,4 @@
-coin_id,price_change_percentage_24h,price_change_percentage_7d,price_change_percentage_14d,price_change_percentage_30d,price_change_percentage_60d,price_change_percentage_200d,price_change_percentage_1y
+1,price_change_percentage_24h,price_change_percentage_7d,price_change_percentage_14d,price_change_percentage_30d,price_change_percentage_60d,price_change_percentage_200d,price_change_percentage_1y
 bitcoin,1.08388,7.60278,6.57509,7.67258,-3.25185,83.5184,37.51761
 ethereum,0.22392,10.38134,4.80849,0.13169,-12.8889,186.77418,101.96023
 tether,-0.21173,0.04935,0.0064,-0.04237,0.28037,-0.00542,0.01954
